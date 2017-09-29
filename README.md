@@ -7,3 +7,5 @@ https://tjournal.ru/55744-neuraltalk-recognize-photos
 https://github.com/karpathy/neuraltalk
 
 https://github.com/karpathy/neuraltalk2
+
+http://cs.stanford.edu/people/karpathy/cvpr2015.pdf
